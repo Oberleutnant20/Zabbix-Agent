@@ -6,9 +6,9 @@
 
 #### ** Haben Sie einen Fehler gefunden? **
 
-* ** Stellen Sie sicher, dass der Fehler nicht bereits gemeldet wurde **, indem Sie auf GitHub unter [Probleme](https://github.com/Oberleutnant20/HSQLDB-Template/issues) suchen.
+* ** Stellen Sie sicher, dass der Fehler nicht bereits gemeldet wurde **, indem Sie auf GitHub unter [Probleme](https://github.com/Oberleutnant20/Zabbix-Agent/issues) suchen.
 
-* Falls Sie kein offenes Problem finden können, das das Problem angeht, [öffnen Sie ein neues](https://github.com/Oberleutnant20/HSQLDB-Template/issues/new). Achten Sie darauf, einen ** Titel und eine eindeutige Beschreibung ** sowie so viele relevante Informationen wie möglich anzugeben, die das erwartete Verhalten zeigen, das nicht auftritt.
+* Falls Sie kein offenes Problem finden können, das das Problem angeht, [öffnen Sie ein neues](https://github.com/Oberleutnant20/Zabbix-Agent/issues/new). Achten Sie darauf, einen ** Titel und eine eindeutige Beschreibung ** sowie so viele relevante Informationen wie möglich anzugeben, die das erwartete Verhalten zeigen, das nicht auftritt.
 
 #### ** Hast du einen Patch geschrieben, der einen Fehler behebt? **
 
@@ -28,7 +28,7 @@
 
 #### ** Haben Sie Fragen zum Quellcode? **
 
-* Fragen zur Verwendung? Dann triff uns auf unserem Teamspeak 3(ts3server://ts3.unique-players.de?Port=9987&addbookmark=Unique-Players.de) oder in unserem [Forum](http://unique-players.de).
+* Fragen zur Verwendung? Dann erstelle auch ein [Probleme](https://github.com/Oberleutnant20/Zabbix-Agent/issues/new) und ich kann dir helfen.
 
 #### ** Codierungskonventionen **
 
@@ -44,6 +44,6 @@ Beginnen Sie mit dem Lesen unseres Codes und Sie werden den Dreh herausfinden. W
   
   * Dies ist eine Open-Source-Software. Betrachten Sie die Leute, die Ihren Code lesen und ihn für sie nett aussehen lassen. Es ist so, als würde man ein Auto fahren: Vielleicht magst du Donuts, wenn du alleine bist, aber mit Fahrgästen ist es das Ziel, die Fahrt so glatt wie möglich zu machen.
 
-Vielen Dank! :heart: :heart: :heart:
+Vielen Dank!
 
 Tim aka. Oberleutnant20
