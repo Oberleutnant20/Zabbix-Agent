@@ -1,4 +1,4 @@
-#### [English version(englische Version)](https://github.com/Oberleutnant20/HSQLDB-Properties-Template/blob/master/docs/CONTRIBUTING_en.md)
+#### [English version(englische Version)](https://github.com/Oberleutnant20/Zabbix-Agent/blob/master/docs/CONTRIBUTING_en.md)
 #### German version(Deutsche version)
 
 
