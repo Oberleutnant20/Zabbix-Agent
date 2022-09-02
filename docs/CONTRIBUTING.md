@@ -46,4 +46,4 @@ Beginnen Sie mit dem Lesen unseres Codes und Sie werden den Dreh herausfinden. W
 
 Vielen Dank!
 
-Tim aka. Oberleutnant20
+Oberleutnant20
